@@ -5,8 +5,42 @@
         <link>https://www.gocomics.com/calvinandhobbes</link>
         <description>Latest Calvin and Hobbes comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Jun 2026 13:28:00 GMT</lastBuildDate>
-
+        <lastBuildDate>Thu, 25 Jun 2026 20:16:04 GMT</lastBuildDate>
+        <item>
+            <title>Calvin and Hobbes - June 20, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/20</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/20</guid>
+            <pubDate>Thu, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - June 21, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/21</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/21</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - June 22, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/22</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/22</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - June 23, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/23</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/23</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - June 24, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/24</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/24</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
         <item>
             <title>Calvin and Hobbes - June 25, 2026</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/25</link>
@@ -14,15 +48,48 @@
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
             <description>Daily Calvin and Hobbes comic strip.</description>
         </item>
-
     </channel>
     <channel>
         <title>Pickles Feed</title>
         <link>https://www.gocomics.com/pickles</link>
         <description>Latest Pickles comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Jun 2026 13:28:00 GMT</lastBuildDate>
-
+        <lastBuildDate>Thu, 25 Jun 2026 20:16:04 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - June 20, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/20</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/20</guid>
+            <pubDate>Thu, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - June 21, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/21</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/21</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - June 22, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/22</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/22</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - June 23, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/23</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/23</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - June 24, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/24</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/24</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
         <item>
             <title>Pickles - June 25, 2026</title>
             <link>https://www.gocomics.com/pickles/2026/06/25</link>
@@ -30,6 +97,5 @@
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
             <description>Daily Pickles comic strip.</description>
         </item>
-
     </channel>
 </rss>
