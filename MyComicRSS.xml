@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Calvin and Hobbes Feed</title>
+        <link>https://www.gocomics.com/calvinandhobbes</link>
+        <description>Latest Calvin and Hobbes comic strip</description>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 25 Jun 2026 13:28:00 GMT</lastBuildDate>
+
+        <item>
+            <title>Calvin and Hobbes - June 25, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/25</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/25</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+
+    </channel>
+    <channel>
+        <title>Pickles Feed</title>
+        <link>https://www.gocomics.com/pickles</link>
+        <description>Latest Pickles comic strip</description>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 25 Jun 2026 13:28:00 GMT</lastBuildDate>
+
+        <item>
+            <title>Pickles - June 25, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/25</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/25</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+
+    </channel>
+</rss>
