@@ -5,7 +5,7 @@
         <link>https://www.gocomics.com/calvinandhobbes</link>
         <description>Latest Calvin and Hobbes comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Jun 2026 20:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 20:30:49 GMT</lastBuildDate>
         <item>
             <title>Calvin and Hobbes - June 20, 2026</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/20</link>
@@ -54,7 +54,7 @@
         <link>https://www.gocomics.com/pickles</link>
         <description>Latest Pickles comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Jun 2026 20:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 20:30:49 GMT</lastBuildDate>
         <item>
             <title>Pickles - June 20, 2026</title>
             <link>https://www.gocomics.com/pickles/2026/06/20</link>
@@ -96,6 +96,34 @@
             <guid>https://www.gocomics.com/pickles/2026/06/25</guid>
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
             <description>Daily Pickles comic strip.</description>
+        </item>
+    </channel>
+    <channel>
+        <title>Pickles Archive Feed</title>
+        <link>https://www.gocomics.com/pickles</link>
+        <description>Pickles archive replay - reading from October 2010</description>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 25 Jun 2026 20:30:49 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - October 1, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/01</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/01</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 1, 2010.</description>
+        </item>
+        <item>
+            <title>Pickles - October 2, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/02</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/02</guid>
+            <pubDate>Thu, 25 Jun 2026 01:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 2, 2010.</description>
+        </item>
+        <item>
+            <title>Pickles - October 3, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/03</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/03</guid>
+            <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 3, 2010.</description>
         </item>
     </channel>
 </rss>
