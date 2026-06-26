@@ -5,13 +5,17 @@
         <!-- <link>https://www.gocomics.com/calvinandhobbes</link> -->
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 26 Jun 2026 18:00:38 GMT</lastBuildDate>
         <item>
-            <title>Calvin and Hobbes - June 26, 2026</title>
+            <title>Calvin and Hobbes - June 26, 2026 (bis)</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/26</link>
-            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/26</guid>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/26/bis</guid>
             <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/c441e27014e4013fbf5d005056a9545d"></img>
+                </p>
+                <p>Daily Calvin and Hobbes comic strip.</p>
+            </description>
         </item>
         <item>
             <title>Calvin and Hobbes - June 20, 2026</title>
