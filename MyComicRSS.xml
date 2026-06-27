@@ -4,6 +4,63 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
+        <lastBuildDate>Sat, 27 Jun 2026 07:47:11 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - October 9, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/09</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/09</guid>
+            <pubDate>Sat, 27 Jun 2026 02:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 9, 2010.</description>
+        </item>
+        <item>
+            <title>Buni - Episode 308</title>
+            <link>https://www.bunicomic.com/comic/buni-308/</link>
+            <guid>https://www.bunicomic.com/comic/buni-308/</guid>
+            <pubDate>Sat, 27 Jun 2026 02:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 308.</description>
+        </item>
+        <item>
+            <title>Pickles - October 8, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/08</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/08</guid>
+            <pubDate>Sat, 27 Jun 2026 01:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 8, 2010.</description>
+        </item>
+        <item>
+            <title>Buni - Episode 307</title>
+            <link>https://www.bunicomic.com/comic/buni-307/</link>
+            <guid>https://www.bunicomic.com/comic/buni-307/</guid>
+            <pubDate>Sat, 27 Jun 2026 01:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 307.</description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - June 27, 2026</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/06/27</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/06/27</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - June 27, 2026</title>
+            <link>https://www.gocomics.com/pickles/2026/06/27</link>
+            <guid>https://www.gocomics.com/pickles/2026/06/27</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - October 7, 2010</title>
+            <link>https://www.gocomics.com/pickles/2010/10/07</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/07</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Archive replay: Pickles strip from October 7, 2010.</description>
+        </item>
+        <item>
+            <title>Buni - Episode 306</title>
+            <link>https://www.bunicomic.com/comic/buni-306/</link>
+            <guid>https://www.bunicomic.com/comic/buni-306/</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 306.</description>
+        </item>
         <item>
             <title>Pickles - October 6, 2010</title>
             <link>https://www.gocomics.com/pickles/2010/10/06</link>
@@ -191,6 +248,5 @@
             <pubDate>Thu, 20 Jun 2026 00:00:00 GMT</pubDate>
             <description>Daily Pickles comic strip.</description>
         </item>
-        <lastBuildDate>Fri, 26 Jun 2026 18:20:11 GMT</lastBuildDate>
     </channel>
 </rss>
