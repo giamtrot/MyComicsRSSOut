@@ -4,20 +4,28 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 01 Jul 2026 20:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 21:21:39 GMT</lastBuildDate>
         <item>
             <title>Pickles - 2010-10-21</title>
             <link>https://www.gocomics.com/pickles/2010/10/21</link>
             <guid>https://www.gocomics.com/pickles/2010/10/21</guid>
             <pubDate>Wed, 01 Jul 2026 02:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/7f5a7140b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 320</title>
+            <title>Buni - Ice Cold (2013-01-28)</title>
             <link>https://www.bunicomic.com/comic/buni-320/</link>
             <guid>https://www.bunicomic.com/comic/buni-320/</guid>
             <pubDate>Wed, 01 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 320.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-28-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Worrywart (2019-01-28)</title>
@@ -35,14 +43,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/20</link>
             <guid>https://www.gocomics.com/pickles/2010/10/20</guid>
             <pubDate>Wed, 01 Jul 2026 01:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/7eb58620b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 319</title>
+            <title>Buni - Happy Hour (2013-01-25)</title>
             <link>https://www.bunicomic.com/comic/buni-319/</link>
             <guid>https://www.bunicomic.com/comic/buni-319/</guid>
             <pubDate>Wed, 01 Jul 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 319.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-25-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Chekhov’s Gun Store (2019-01-25)</title>
@@ -60,28 +76,44 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/07/01</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/07/01</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/cd4438b014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-07-01</title>
             <link>https://www.gocomics.com/pickles/2026/07/01</link>
             <guid>https://www.gocomics.com/pickles/2026/07/01</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/070d87304d8b013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-19</title>
             <link>https://www.gocomics.com/pickles/2010/10/19</link>
             <guid>https://www.gocomics.com/pickles/2010/10/19</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/76028140b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 318</title>
+            <title>Buni - Stone Cold Ballin' (2013-01-23)</title>
             <link>https://www.bunicomic.com/comic/buni-318/</link>
             <guid>https://www.bunicomic.com/comic/buni-318/</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 318.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-23-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Hindenburg 2.0 (2019-01-21)</title>
@@ -99,7 +131,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/18</link>
             <guid>https://www.gocomics.com/pickles/2010/10/18</guid>
             <pubDate>Tue, 30 Jun 2026 02:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/76702b00b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Chew toy (2013-01-21)</title>
@@ -128,14 +164,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/17</link>
             <guid>https://www.gocomics.com/pickles/2010/10/17</guid>
             <pubDate>Tue, 30 Jun 2026 01:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/83666330b93b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 316</title>
+            <title>Buni - Ski Jump (2013-01-18)</title>
             <link>https://www.bunicomic.com/comic/buni-316/</link>
             <guid>https://www.bunicomic.com/comic/buni-316/</guid>
             <pubDate>Tue, 30 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 316.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-18-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Rest in Peace (2019-01-14)</title>
@@ -153,28 +197,44 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/30</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/30</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/cac2fa3014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-30</title>
             <link>https://www.gocomics.com/pickles/2026/06/30</link>
             <guid>https://www.gocomics.com/pickles/2026/06/30</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/b7dfa2604d89013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-16</title>
             <link>https://www.gocomics.com/pickles/2010/10/16</link>
             <guid>https://www.gocomics.com/pickles/2010/10/16</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/113622c0b0eb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 315</title>
+            <title>Buni - Meltdown (2013-01-16)</title>
             <link>https://www.bunicomic.com/comic/buni-315/</link>
             <guid>https://www.bunicomic.com/comic/buni-315/</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 315.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-16-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Alien: Isolation sequel announced! (2019-01-11)</title>
@@ -192,14 +252,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/15</link>
             <guid>https://www.gocomics.com/pickles/2010/10/15</guid>
             <pubDate>Mon, 29 Jun 2026 02:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/087dca00b0eb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 314</title>
+            <title>Buni - Abominable Snowman (2013-01-14)</title>
             <link>https://www.bunicomic.com/comic/buni-314/</link>
             <guid>https://www.bunicomic.com/comic/buni-314/</guid>
             <pubDate>Mon, 29 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 314.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-14-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Goat Force Five (2019-01-07)</title>
@@ -217,14 +285,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/14</link>
             <guid>https://www.gocomics.com/pickles/2010/10/14</guid>
             <pubDate>Mon, 29 Jun 2026 01:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/07d9c4e0b0eb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 313</title>
+            <title>Buni - Have a nice day (2013-01-11)</title>
             <link>https://www.bunicomic.com/comic/buni-313/</link>
             <guid>https://www.bunicomic.com/comic/buni-313/</guid>
             <pubDate>Mon, 29 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 313.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-11-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - New Year, New Cthulhu (2019-01-04)</title>
@@ -242,21 +318,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/29</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/29</guid>
             <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/c8a1bfb014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-29</title>
             <link>https://www.gocomics.com/pickles/2026/06/29</link>
             <guid>https://www.gocomics.com/pickles/2026/06/29</guid>
             <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/b46b2cf04d89013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-13</title>
             <link>https://www.gocomics.com/pickles/2010/10/13</link>
             <guid>https://www.gocomics.com/pickles/2010/10/13</guid>
             <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/fe5ef2c0b0ea012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Snap (2013-01-08)</title>
@@ -285,7 +373,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/12</link>
             <guid>https://www.gocomics.com/pickles/2010/10/12</guid>
             <pubDate>Sun, 28 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 12, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/ff0562f0b0ea012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Love is in the air (2013-02-11)</title>
@@ -314,7 +406,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/11</link>
             <guid>https://www.gocomics.com/pickles/2010/10/11</guid>
             <pubDate>Sun, 28 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 11, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/f468f9c0b0ea012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Sticking to your New Year resolution no matter what. (2013-01-07)</title>
@@ -343,21 +439,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/28</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/28</guid>
             <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a59840c0514b013fc2a2005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-28</title>
             <link>https://www.gocomics.com/pickles/2026/06/28</link>
             <guid>https://www.gocomics.com/pickles/2026/06/28</guid>
             <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/61e941a03784013fc0c4005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-10</title>
             <link>https://www.gocomics.com/pickles/2010/10/10</link>
             <guid>https://www.gocomics.com/pickles/2010/10/10</guid>
             <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 10, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/feeb5320b485012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Never go down without a fight. (2013-01-04)</title>
@@ -386,7 +494,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/09</link>
             <guid>https://www.gocomics.com/pickles/2010/10/09</guid>
             <pubDate>Sat, 27 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 9, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/f1ca3d80ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Swing and a miss (2013-01-02)</title>
@@ -415,7 +527,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/08</link>
             <guid>https://www.gocomics.com/pickles/2010/10/08</guid>
             <pubDate>Sat, 27 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 8, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/f2622b30ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Happy New Year! Pace yourself. (2012-12-31)</title>
@@ -444,21 +560,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/27</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/27</guid>
             <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/c668ad5014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-27</title>
             <link>https://www.gocomics.com/pickles/2026/06/27</link>
             <guid>https://www.gocomics.com/pickles/2026/06/27</guid>
             <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/aa72127047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-07</title>
             <link>https://www.gocomics.com/pickles/2010/10/07</link>
             <guid>https://www.gocomics.com/pickles/2010/10/07</guid>
             <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 7, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/e92e6470ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Close Call (2012-12-28)</title>
@@ -487,7 +615,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/06</link>
             <guid>https://www.gocomics.com/pickles/2010/10/06</guid>
             <pubDate>Fri, 26 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 6, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/e8a10aa0ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Buni (2012-12-26)</title>
@@ -516,7 +648,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/05</link>
             <guid>https://www.gocomics.com/pickles/2010/10/05</guid>
             <pubDate>Fri, 26 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 5, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/e03bd260ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Merry Christmas (2012-12-24)</title>
@@ -557,14 +693,22 @@
             <link>https://www.gocomics.com/pickles/2026/06/26</link>
             <guid>https://www.gocomics.com/pickles/2026/06/26</guid>
             <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a7dc421047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-04</title>
             <link>https://www.gocomics.com/pickles/2010/10/04</link>
             <guid>https://www.gocomics.com/pickles/2010/10/04</guid>
             <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 4, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/df98c0a0ab6b012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Holiday Spirit (2012-12-21)</title>
@@ -593,7 +737,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/03</link>
             <guid>https://www.gocomics.com/pickles/2010/10/03</guid>
             <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 3, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/08fb1f80ae3c012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Flu Season (2012-12-19)</title>
@@ -622,7 +770,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/02</link>
             <guid>https://www.gocomics.com/pickles/2010/10/02</guid>
             <pubDate>Thu, 25 Jun 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 2, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/2af9dd90a5ec012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Abominable Snowman (2012-12-17)</title>
@@ -651,21 +803,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/25</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/25</guid>
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/c212c2d014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-25</title>
             <link>https://www.gocomics.com/pickles/2026/06/25</link>
             <guid>https://www.gocomics.com/pickles/2026/06/25</guid>
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a520842047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-01</title>
             <link>https://www.gocomics.com/pickles/2010/10/01</link>
             <guid>https://www.gocomics.com/pickles/2010/10/01</guid>
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Pickles strip from October 1, 2010.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/20d1a180a5ec012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Buni Claus (2012-12-14)</title>
@@ -694,70 +858,110 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/24</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/24</guid>
             <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/bfbcfd7014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-24</title>
             <link>https://www.gocomics.com/pickles/2026/06/24</link>
             <guid>https://www.gocomics.com/pickles/2026/06/24</guid>
             <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a266a3c047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Calvin and Hobbes - 2026-06-23</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/23</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/23</guid>
             <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/bce86cf014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-23</title>
             <link>https://www.gocomics.com/pickles/2026/06/23</link>
             <guid>https://www.gocomics.com/pickles/2026/06/23</guid>
             <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/9fd3059047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Calvin and Hobbes - 2026-06-22</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/22</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/22</guid>
             <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/ba9f55a014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-22</title>
             <link>https://www.gocomics.com/pickles/2026/06/22</link>
             <guid>https://www.gocomics.com/pickles/2026/06/22</guid>
             <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/9cc2695047e2013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Calvin and Hobbes - 2026-06-21</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/21</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/21</guid>
             <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/9b672b904bc9013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-21</title>
             <link>https://www.gocomics.com/pickles/2026/06/21</link>
             <guid>https://www.gocomics.com/pickles/2026/06/21</guid>
             <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/bb61064032b4013fc0c4005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Calvin and Hobbes - 2026-06-20</title>
             <link>https://www.gocomics.com/calvinandhobbes/2026/06/20</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/06/20</guid>
             <pubDate>Thu, 20 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/b880da8014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2026-06-20</title>
             <link>https://www.gocomics.com/pickles/2026/06/20</link>
             <guid>https://www.gocomics.com/pickles/2026/06/20</guid>
             <pubDate>Thu, 20 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Daily Pickles comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/9fb58590433c013fc18c005056a9545d"/>
+                </p>
+            </description>
         </item>
     </channel>
 </rss>
