@@ -4,7 +4,96 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 30 Jun 2026 15:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 20:39:05 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-10-21</title>
+            <link>https://www.gocomics.com/pickles/2010/10/21</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/21</guid>
+            <pubDate>Wed, 01 Jul 2026 02:00:00 GMT</pubDate>
+            <description/>
+        </item>
+        <item>
+            <title>Buni - Episode 320</title>
+            <link>https://www.bunicomic.com/comic/buni-320/</link>
+            <guid>https://www.bunicomic.com/comic/buni-320/</guid>
+            <pubDate>Wed, 01 Jul 2026 02:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 320.</description>
+        </item>
+        <item>
+            <title>Optipess - Worrywart (2019-01-28)</title>
+            <link>https://www.optipess.com/comic/worrywart/</link>
+            <guid>https://www.optipess.com/comic/worrywart/</guid>
+            <pubDate>Wed, 01 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/01/2019-01-28-958_Worrywart_800.jpg"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-10-20</title>
+            <link>https://www.gocomics.com/pickles/2010/10/20</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/20</guid>
+            <pubDate>Wed, 01 Jul 2026 01:00:00 GMT</pubDate>
+            <description/>
+        </item>
+        <item>
+            <title>Buni - Episode 319</title>
+            <link>https://www.bunicomic.com/comic/buni-319/</link>
+            <guid>https://www.bunicomic.com/comic/buni-319/</guid>
+            <pubDate>Wed, 01 Jul 2026 01:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 319.</description>
+        </item>
+        <item>
+            <title>Optipess - Chekhov’s Gun Store (2019-01-25)</title>
+            <link>https://www.optipess.com/comic/chekhovs-gun-store/</link>
+            <guid>https://www.optipess.com/comic/chekhovs-gun-store/</guid>
+            <pubDate>Wed, 01 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/01/2019-01-25-957_Chekhovs-Gun-Store_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-01</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/01</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/01</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - 2026-07-01</title>
+            <link>https://www.gocomics.com/pickles/2026/07/01</link>
+            <guid>https://www.gocomics.com/pickles/2026/07/01</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description>Daily Pickles comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - 2010-10-19</title>
+            <link>https://www.gocomics.com/pickles/2010/10/19</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/19</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description/>
+        </item>
+        <item>
+            <title>Buni - Episode 318</title>
+            <link>https://www.bunicomic.com/comic/buni-318/</link>
+            <guid>https://www.bunicomic.com/comic/buni-318/</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 318.</description>
+        </item>
+        <item>
+            <title>Optipess - Hindenburg 2.0 (2019-01-21)</title>
+            <link>https://www.optipess.com/comic/hindenburg-2-0/</link>
+            <guid>https://www.optipess.com/comic/hindenburg-2-0/</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/01/2019-01-21-956_Hindenburg2.0_800.jpg"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-10-18</title>
             <link>https://www.gocomics.com/pickles/2010/10/18</link>
@@ -13,11 +102,15 @@
             <description/>
         </item>
         <item>
-            <title>Buni - Episode 317</title>
+            <title>Buni - Chew toy (2013-01-21)</title>
             <link>https://www.bunicomic.com/comic/buni-317/</link>
             <guid>https://www.bunicomic.com/comic/buni-317/</guid>
             <pubDate>Tue, 30 Jun 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 317.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-21-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Emotional Reactions (2019-01-18)</title>
@@ -166,11 +259,15 @@
             <description/>
         </item>
         <item>
-            <title>Buni - Episode 312</title>
+            <title>Buni - Snap (2013-01-08)</title>
             <link>https://www.bunicomic.com/comic/buni-312/</link>
             <guid>https://www.bunicomic.com/comic/buni-312/</guid>
             <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 312.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-08-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Final Delivery (2018-12-17)</title>
