@@ -4,20 +4,138 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 03 Jul 2026 20:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 20:56:45 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-10-30</title>
+            <link>https://www.gocomics.com/pickles/2010/10/30</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/30</guid>
+            <pubDate>Sat, 04 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/3f3de420bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - The Linger (2013-02-20)</title>
+            <link>https://www.bunicomic.com/comic/buni-329/</link>
+            <guid>https://www.bunicomic.com/comic/buni-329/</guid>
+            <pubDate>Sat, 04 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-20-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Stressful Times (2019-03-01)</title>
+            <link>https://www.optipess.com/comic/stressful-times/</link>
+            <guid>https://www.optipess.com/comic/stressful-times/</guid>
+            <pubDate>Sat, 04 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/02/2019-03-01-967_Stressful-Times_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-10-29</title>
+            <link>https://www.gocomics.com/pickles/2010/10/29</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/29</guid>
+            <pubDate>Sat, 04 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/3117bfc0bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Self-Help (2013-02-18)</title>
+            <link>https://www.bunicomic.com/comic/buni-328/</link>
+            <guid>https://www.bunicomic.com/comic/buni-328/</guid>
+            <pubDate>Sat, 04 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-18-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Vaccination Quiz (2019-02-25)</title>
+            <link>https://www.optipess.com/comic/vaccination-quiz/</link>
+            <guid>https://www.optipess.com/comic/vaccination-quiz/</guid>
+            <pubDate>Sat, 04 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/02/2019-02-25-966_Vaccination-Quiz_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-04</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/04</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/04</guid>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/d369f58014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-10-28</title>
+            <link>https://www.gocomics.com/pickles/2010/10/28</link>
+            <guid>https://www.gocomics.com/pickles/2010/10/28</guid>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/318c91f0bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Secret Admirer (2013-02-15)</title>
+            <link>https://www.bunicomic.com/comic/buni-327/</link>
+            <guid>https://www.bunicomic.com/comic/buni-327/</guid>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-15-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Adopt, Don’t Shop (2019-02-22)</title>
+            <link>https://www.optipess.com/comic/adopt-dont-shop/</link>
+            <guid>https://www.optipess.com/comic/adopt-dont-shop/</guid>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/02/2019-02-22-965_Adopt_Dont_Shop_SQ.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-10-27</title>
             <link>https://www.gocomics.com/pickles/2010/10/27</link>
             <guid>https://www.gocomics.com/pickles/2010/10/27</guid>
             <pubDate>Fri, 03 Jul 2026 02:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/28846740bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 326</title>
+            <title>Buni - Love Seat (2013-02-13)</title>
             <link>https://www.bunicomic.com/comic/buni-326/</link>
             <guid>https://www.bunicomic.com/comic/buni-326/</guid>
             <pubDate>Fri, 03 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 326.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-13-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - A Well Wish (2019-02-18)</title>
@@ -35,14 +153,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/26</link>
             <guid>https://www.gocomics.com/pickles/2010/10/26</guid>
             <pubDate>Fri, 03 Jul 2026 01:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/2806d990bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 325</title>
+            <title>Buni - Love bird (2013-02-08)</title>
             <link>https://www.bunicomic.com/comic/buni-325/</link>
             <guid>https://www.bunicomic.com/comic/buni-325/</guid>
             <pubDate>Fri, 03 Jul 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 325.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-08-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Post-Valentine’s Day (2019-02-15)</title>
@@ -60,21 +186,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/07/03</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/07/03</guid>
             <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/d15f77f014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-25</title>
             <link>https://www.gocomics.com/pickles/2010/10/25</link>
             <guid>https://www.gocomics.com/pickles/2010/10/25</guid>
             <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/1e6a6e30bbeb012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 324</title>
+            <title>Buni - Errow (2013-02-06)</title>
             <link>https://www.bunicomic.com/comic/buni-324/</link>
             <guid>https://www.bunicomic.com/comic/buni-324/</guid>
             <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 324.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-06-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - World Peace Achieved (2019-02-11)</title>
@@ -92,14 +230,22 @@
             <link>https://www.gocomics.com/pickles/2010/10/24</link>
             <guid>https://www.gocomics.com/pickles/2010/10/24</guid>
             <pubDate>Thu, 02 Jul 2026 02:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/82d0cd70beb5012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 323</title>
+            <title>Buni - Aphrodisiac (2013-02-04)</title>
             <link>https://www.bunicomic.com/comic/buni-323/</link>
             <guid>https://www.bunicomic.com/comic/buni-323/</guid>
             <pubDate>Thu, 02 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 323.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-04-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Plop! (2019-02-08)</title>
@@ -117,7 +263,11 @@
             <link>https://www.gocomics.com/pickles/2010/10/23</link>
             <guid>https://www.gocomics.com/pickles/2010/10/23</guid>
             <pubDate>Thu, 02 Jul 2026 01:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/91136860b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Snow me the money (2013-02-01)</title>
@@ -146,21 +296,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/07/02</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/07/02</guid>
             <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/cf79bf4014e4013fbf5d005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-10-22</title>
             <link>https://www.gocomics.com/pickles/2010/10/22</link>
             <guid>https://www.gocomics.com/pickles/2010/10/22</guid>
             <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/8833aed0b66e012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 321</title>
+            <title>Buni - The Chase (2013-01-30)</title>
             <link>https://www.bunicomic.com/comic/buni-321/</link>
             <guid>https://www.bunicomic.com/comic/buni-321/</guid>
             <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 321.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-01-30-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Worked Up (2019-02-01)</title>
