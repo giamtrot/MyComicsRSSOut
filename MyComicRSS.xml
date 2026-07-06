@@ -4,7 +4,7 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Jul 2026 05:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 05:12:28 GMT</lastBuildDate>
         <item>
             <title>Pickles - 2010-11-05</title>
             <link>https://www.gocomics.com/pickles/2010/11/05</link>
@@ -17,11 +17,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 335</title>
+            <title>Buni - Help (2013-03-06)</title>
             <link>https://www.bunicomic.com/comic/buni-335/</link>
             <guid>https://www.bunicomic.com/comic/buni-335/</guid>
             <pubDate>Mon, 06 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 335.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-06-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Earth 2 (2019-03-22)</title>
@@ -46,11 +50,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 334</title>
+            <title>Buni - A man's game (2013-03-04)</title>
             <link>https://www.bunicomic.com/comic/buni-334/</link>
             <guid>https://www.bunicomic.com/comic/buni-334/</guid>
             <pubDate>Mon, 06 Jul 2026 01:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 334.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-04-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - My Twelve-year-old Self! (2019-03-18)</title>
@@ -86,11 +94,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 333</title>
+            <title>Buni - Some like it hot (2013-03-01)</title>
             <link>https://www.bunicomic.com/comic/buni-333/</link>
             <guid>https://www.bunicomic.com/comic/buni-333/</guid>
             <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 333.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-01-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Torture Inc. (2019-03-15)</title>
@@ -115,11 +127,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 332</title>
+            <title>Buni - Whiskers (2013-02-27)</title>
             <link>https://www.bunicomic.com/comic/buni-332/</link>
             <guid>https://www.bunicomic.com/comic/buni-332/</guid>
             <pubDate>Sun, 05 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 332.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-27-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - The Fix (2019-03-11)</title>
@@ -188,11 +204,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 330</title>
+            <title>Buni - BF...F? (2013-02-22)</title>
             <link>https://www.bunicomic.com/comic/buni-330/</link>
             <guid>https://www.bunicomic.com/comic/buni-330/</guid>
             <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 330.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-02-22-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Low Oil Level (2019-03-04)</title>
