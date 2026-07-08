@@ -4,7 +4,7 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 08 Jul 2026 05:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 09:36:25 GMT</lastBuildDate>
         <item>
             <title>Pickles - 2010-11-11</title>
             <link>https://www.gocomics.com/pickles/2010/11/11</link>
@@ -17,11 +17,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 341</title>
+            <title>Buni - Free Hugs (2013-03-20)</title>
             <link>https://www.bunicomic.com/comic/buni-341/</link>
             <guid>https://www.bunicomic.com/comic/buni-341/</guid>
             <pubDate>Wed, 08 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 341.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-20-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Cthulhu Reviews (2019-04-29)</title>
@@ -90,11 +94,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 339</title>
+            <title>Buni - Rainbows, rainbows, rainbows (2013-03-15)</title>
             <link>https://www.bunicomic.com/comic/buni-339/</link>
             <guid>https://www.bunicomic.com/comic/buni-339/</guid>
             <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 339.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-15-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Past vs Future (2019-04-12)</title>
