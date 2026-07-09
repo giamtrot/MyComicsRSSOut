@@ -4,7 +4,117 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 08 Jul 2026 09:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 05:42:05 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-11-14</title>
+            <link>https://www.gocomics.com/pickles/2010/11/14</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/14</guid>
+            <pubDate>Thu, 09 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/9d218210d009012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Easter Farm (2013-03-27)</title>
+            <link>https://www.bunicomic.com/comic/buni-344/</link>
+            <guid>https://www.bunicomic.com/comic/buni-344/</guid>
+            <pubDate>Thu, 09 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-27-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Cthulhu + Humans (2019-05-13)</title>
+            <link>https://www.optipess.com/comic/cthulhu-humans/</link>
+            <guid>https://www.optipess.com/comic/cthulhu-humans/</guid>
+            <pubDate>Thu, 09 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-13-982_Cthulhu-Humans_800.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-13</title>
+            <link>https://www.gocomics.com/pickles/2010/11/13</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/13</guid>
+            <pubDate>Thu, 09 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a6d442f0c6ea012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Photo Album (2013-03-25)</title>
+            <link>https://www.bunicomic.com/comic/buni-343/</link>
+            <guid>https://www.bunicomic.com/comic/buni-343/</guid>
+            <pubDate>Thu, 09 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-25-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Movie Memory (2019-05-10)</title>
+            <link>https://www.optipess.com/comic/movie-memory/</link>
+            <guid>https://www.optipess.com/comic/movie-memory/</guid>
+            <pubDate>Thu, 09 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-10-981_Movie_Memory_800.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-09</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/09</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/09</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/142da2a02559013fc020005056a9545d"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-12</title>
+            <link>https://www.gocomics.com/pickles/2010/11/12</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/12</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a7627a00c6ea012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Heavenly Barbeque (2013-03-22)</title>
+            <link>https://www.bunicomic.com/comic/buni-342/</link>
+            <guid>https://www.bunicomic.com/comic/buni-342/</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-22-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Hire a Hitman (2019-05-06)</title>
+            <link>https://www.optipess.com/comic/hire-a-hitman/</link>
+            <guid>https://www.optipess.com/comic/hire-a-hitman/</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-06-980_Hire-a-Hitman_SQ.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-11-11</title>
             <link>https://www.gocomics.com/pickles/2010/11/11</link>
