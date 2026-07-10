@@ -4,7 +4,117 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 09 Jul 2026 18:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 05:52:36 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-11-17</title>
+            <link>https://www.gocomics.com/pickles/2010/11/17</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/17</guid>
+            <pubDate>Fri, 10 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/5d874b30cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Whale Rider (2013-04-03)</title>
+            <link>https://www.bunicomic.com/comic/buni-347/</link>
+            <guid>https://www.bunicomic.com/comic/buni-347/</guid>
+            <pubDate>Fri, 10 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-03-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Closet Monster (2019-05-24)</title>
+            <link>https://www.optipess.com/comic/closet-monster/</link>
+            <guid>https://www.optipess.com/comic/closet-monster/</guid>
+            <pubDate>Fri, 10 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-24-985_Closet-Monster_800.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-16</title>
+            <link>https://www.gocomics.com/pickles/2010/11/16</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/16</guid>
+            <pubDate>Fri, 10 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/5f6aee30cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Help is on the way (2013-04-01)</title>
+            <link>https://www.bunicomic.com/comic/buni-346/</link>
+            <guid>https://www.bunicomic.com/comic/buni-346/</guid>
+            <pubDate>Fri, 10 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-01-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - On Brand (2019-05-20)</title>
+            <link>https://www.optipess.com/comic/on-brand/</link>
+            <guid>https://www.optipess.com/comic/on-brand/</guid>
+            <pubDate>Fri, 10 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-20-984_On-Brand_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-10</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/10</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/10</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/166b45e02559013fc020005056a9545d"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-15</title>
+            <link>https://www.gocomics.com/pickles/2010/11/15</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/15</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/5fcb2350cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - I've always been a little disturbed by the Easter Bunny. (2013-03-29)</title>
+            <link>https://www.bunicomic.com/comic/buni-345/</link>
+            <guid>https://www.bunicomic.com/comic/buni-345/</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-03-29-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Tearing Up (2019-05-17)</title>
+            <link>https://www.optipess.com/comic/tearing-up/</link>
+            <guid>https://www.optipess.com/comic/tearing-up/</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-17-983_Tearing-Up_800.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-11-14</title>
             <link>https://www.gocomics.com/pickles/2010/11/14</link>
