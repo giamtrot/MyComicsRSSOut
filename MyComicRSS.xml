@@ -4,7 +4,101 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 10 Jul 2026 05:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 06:03:50 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-11-20</title>
+            <link>https://www.gocomics.com/pickles/2010/11/20</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/20</guid>
+            <pubDate>Sat, 11 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/5e6eea80cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Episode 350</title>
+            <link>https://www.bunicomic.com/comic/buni-350/</link>
+            <guid>https://www.bunicomic.com/comic/buni-350/</guid>
+            <pubDate>Sat, 11 Jul 2026 02:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 350.</description>
+        </item>
+        <item>
+            <title>Optipess - The Next Level (2019-06-03)</title>
+            <link>https://www.optipess.com/comic/the-next-level/</link>
+            <guid>https://www.optipess.com/comic/the-next-level/</guid>
+            <pubDate>Sat, 11 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/06/2019-06-03-988_The-Next-Level_800.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-19</title>
+            <link>https://www.gocomics.com/pickles/2010/11/19</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/19</guid>
+            <pubDate>Sat, 11 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/61d61590cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Truthiness (2013-04-08)</title>
+            <link>https://www.bunicomic.com/comic/buni-349/</link>
+            <guid>https://www.bunicomic.com/comic/buni-349/</guid>
+            <pubDate>Sat, 11 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-08-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Hiccup Hiccup (2019-05-31)</title>
+            <link>https://www.optipess.com/comic/hiccup-hiccup/</link>
+            <guid>https://www.optipess.com/comic/hiccup-hiccup/</guid>
+            <pubDate>Sat, 11 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-31-987_Hiccup-Hiccup_800.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-11</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/11</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/11</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+            <description>Daily Calvin and Hobbes comic strip.</description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-18</title>
+            <link>https://www.gocomics.com/pickles/2010/11/18</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/18</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+            <description/>
+        </item>
+        <item>
+            <title>Buni - Episode 348</title>
+            <link>https://www.bunicomic.com/comic/buni-348/</link>
+            <guid>https://www.bunicomic.com/comic/buni-348/</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+            <description>Archive replay: Buni episode 348.</description>
+        </item>
+        <item>
+            <title>Optipess - Hey You (2019-05-27)</title>
+            <link>https://www.optipess.com/comic/hey-you/</link>
+            <guid>https://www.optipess.com/comic/hey-you/</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/05/2019-05-27-986_Hey-You_800.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-11-17</title>
             <link>https://www.gocomics.com/pickles/2010/11/17</link>
