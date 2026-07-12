@@ -4,7 +4,117 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 11 Jul 2026 06:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 04:37:24 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-11-23</title>
+            <link>https://www.gocomics.com/pickles/2010/11/23</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/23</guid>
+            <pubDate>Sun, 12 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/ac002190d1f2012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Over the rainbow (2013-04-17)</title>
+            <link>https://www.bunicomic.com/comic/buni-353/</link>
+            <guid>https://www.bunicomic.com/comic/buni-353/</guid>
+            <pubDate>Sun, 12 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-17-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Idea Note (2019-06-17)</title>
+            <link>https://www.optipess.com/comic/idea-note/</link>
+            <guid>https://www.optipess.com/comic/idea-note/</guid>
+            <pubDate>Sun, 12 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/06/2019-06-17-991_Idea_Note_800.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-22</title>
+            <link>https://www.gocomics.com/pickles/2010/11/22</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/22</guid>
+            <pubDate>Sun, 12 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/b0738530d1f2012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Alone at last (2013-04-15)</title>
+            <link>https://www.bunicomic.com/comic/buni-352/</link>
+            <guid>https://www.bunicomic.com/comic/buni-352/</guid>
+            <pubDate>Sun, 12 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-15-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Overcast Cure (2019-06-14)</title>
+            <link>https://www.optipess.com/comic/overcast-cure/</link>
+            <guid>https://www.optipess.com/comic/overcast-cure/</guid>
+            <pubDate>Sun, 12 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/06/2019-06-14-990_Overcast_Cure_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-12</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/12</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/12</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/1b2b64102559013fc020005056a9545d"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-11-21</title>
+            <link>https://www.gocomics.com/pickles/2010/11/21</link>
+            <guid>https://www.gocomics.com/pickles/2010/11/21</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/3578a410d57f012d63f600163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Carrion Buni, Carrion (2013-04-12)</title>
+            <link>https://www.bunicomic.com/comic/buni-351/</link>
+            <guid>https://www.bunicomic.com/comic/buni-351/</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-12-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Brain Racing (2019-06-10)</title>
+            <link>https://www.optipess.com/comic/brain-racing/</link>
+            <guid>https://www.optipess.com/comic/brain-racing/</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/06/2019-06-10-989_Brain-Racing_800.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-11-20</title>
             <link>https://www.gocomics.com/pickles/2010/11/20</link>
@@ -17,11 +127,15 @@
             </description>
         </item>
         <item>
-            <title>Buni - Episode 350</title>
+            <title>Buni - cave drawings (2013-04-10)</title>
             <link>https://www.bunicomic.com/comic/buni-350/</link>
             <guid>https://www.bunicomic.com/comic/buni-350/</guid>
             <pubDate>Sat, 11 Jul 2026 02:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 350.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-10-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - The Next Level (2019-06-03)</title>
@@ -72,21 +186,33 @@
             <link>https://www.gocomics.com/calvinandhobbes/2026/07/11</link>
             <guid>https://www.gocomics.com/calvinandhobbes/2026/07/11</guid>
             <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Daily Calvin and Hobbes comic strip.</description>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/1b2b64102559013fc020005056a9545d"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Pickles - 2010-11-18</title>
             <link>https://www.gocomics.com/pickles/2010/11/18</link>
             <guid>https://www.gocomics.com/pickles/2010/11/18</guid>
             <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/5cfaa130cc6a012d63f600163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
-            <title>Buni - Episode 348</title>
+            <title>Buni - Beware of sharks (2013-04-05)</title>
             <link>https://www.bunicomic.com/comic/buni-348/</link>
             <guid>https://www.bunicomic.com/comic/buni-348/</guid>
             <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-            <description>Archive replay: Buni episode 348.</description>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-04-05-Buni.gif"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Optipess - Hey You (2019-05-27)</title>
