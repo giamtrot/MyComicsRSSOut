@@ -4,7 +4,117 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 15 Jul 2026 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 04:22:25 GMT</lastBuildDate>
+        <item>
+            <title>Pickles - 2010-12-05</title>
+            <link>https://www.gocomics.com/pickles/2010/12/05</link>
+            <guid>https://www.gocomics.com/pickles/2010/12/05</guid>
+            <pubDate>Thu, 16 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/83d32f10e149012da5c400163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Buni (2012-03-06)</title>
+            <link>https://www.bunicomic.com/comic/buni-365/</link>
+            <guid>https://www.bunicomic.com/comic/buni-365/</guid>
+            <pubDate>Thu, 16 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2012-03-06-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Religion Extractor (2019-08-23)</title>
+            <link>https://www.optipess.com/comic/religion-extractor/</link>
+            <guid>https://www.optipess.com/comic/religion-extractor/</guid>
+            <pubDate>Thu, 16 Jul 2026 02:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/08/2019-08-23-1004_Religion-Extractor_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-12-04</title>
+            <link>https://www.gocomics.com/pickles/2010/12/04</link>
+            <guid>https://www.gocomics.com/pickles/2010/12/04</guid>
+            <pubDate>Thu, 16 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/c50ece40d8e9012da5c400163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Buni (2012-06-06)</title>
+            <link>https://www.bunicomic.com/comic/buni-364/</link>
+            <guid>https://www.bunicomic.com/comic/buni-364/</guid>
+            <pubDate>Thu, 16 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2012-06-06-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - Inspiration! (2019-08-16)</title>
+            <link>https://www.optipess.com/comic/inspiration/</link>
+            <guid>https://www.optipess.com/comic/inspiration/</guid>
+            <pubDate>Thu, 16 Jul 2026 01:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/08/2019-08-16-1003_Inspiration_SQ.png"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Calvin and Hobbes - 2026-07-16</title>
+            <link>https://www.gocomics.com/calvinandhobbes/2026/07/16</link>
+            <guid>https://www.gocomics.com/calvinandhobbes/2026/07/16</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/a47717802571013fc020005056a9545d"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Pickles - 2010-12-03</title>
+            <link>https://www.gocomics.com/pickles/2010/12/03</link>
+            <guid>https://www.gocomics.com/pickles/2010/12/03</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/1c315d00d8ea012da5c400163e41dd5b"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Buni - Mother's Day plans (2013-05-10)</title>
+            <link>https://www.bunicomic.com/comic/buni-363/</link>
+            <guid>https://www.bunicomic.com/comic/buni-363/</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.bunicomic.com/wp-content/uploads/2013/05/2013-05-10-Buni.gif"/>
+                </p>
+            </description>
+        </item>
+        <item>
+            <title>Optipess - FFW (2019-08-12)</title>
+            <link>https://www.optipess.com/comic/ffw/</link>
+            <guid>https://www.optipess.com/comic/ffw/</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description>
+                <p>
+                    <img src="https://www.optipess.com/wp-content/uploads/2019/08/2019-08-12-1002_FFW_800.png"/>
+                </p>
+            </description>
+        </item>
         <item>
             <title>Pickles - 2010-12-02</title>
             <link>https://www.gocomics.com/pickles/2010/12/02</link>
