@@ -4,7 +4,7 @@
         <title>My Comics RSS</title>
         <description>My comic strip</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 07 Aug 2026 05:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 19:00:11 GMT</lastBuildDate>
         <item>
             <title>Pickles - 2011-05-08</title>
             <link>https://www.gocomics.com/pickles/2011/05/08</link>
@@ -549,7 +549,11 @@
             <link>https://www.gocomics.com/pickles/2011/04/19</link>
             <guid>https://www.gocomics.com/pickles/2011/04/19</guid>
             <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-            <description/>
+            <description>
+                <p>
+                    <img src="https://featureassets.gocomics.com/assets/ef204410476c012e126700163e41dd5b"/>
+                </p>
+            </description>
         </item>
         <item>
             <title>Buni - Buni (2013-12-25)</title>
